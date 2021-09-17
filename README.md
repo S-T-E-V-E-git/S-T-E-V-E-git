@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thant Hein Thwin ,aka Steve</h1>
 - 🌱 I’m currently learning **Docker, CCNA**
 
-- 📫 How to reach me **thantheinthwin.dev@gmail.com**
+- 📫 How to reach me : **thantheinthwin.dev@gmail.com**
 
-- 📄 Know about my experiences [Still a student]
+- 📄 Know about my experiences : [Still a student]
 
-- ⚡ Fun fact **I can play guitar :3**
+- ⚡ Fun fact : **I can play guitar :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
