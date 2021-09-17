@@ -6,12 +6,12 @@
 - 📄 Know about my experiences : [Still a student]
 
 - ⚡ Fun fact : **I can play guitar :3**
+- 
+![Anurag's GitHub stats](https://github-readme-repo.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-repo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
