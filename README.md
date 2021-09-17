@@ -7,6 +7,9 @@
 
 - ⚡ Fun fact : **I can play guitar :3**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thanthein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanthein" height="30" width="40" /></a>
