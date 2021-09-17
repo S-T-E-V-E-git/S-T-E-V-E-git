@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **thantheinthwin.dev@gmail.com**
 
-- 📄 Know about my experiences [Still a student](Still a student)
+- 📄 Know about my experiences [Still a student]
 
 - ⚡ Fun fact **I can play guitar :3**
 
