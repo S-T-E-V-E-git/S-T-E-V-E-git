@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact : **I can play guitar :3**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby)
 
 
 
