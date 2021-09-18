@@ -7,11 +7,11 @@
 
 - ⚡ Fun fact : **I can play guitar :3**
 
-<a href="https://github.com/S-T-E-V-E-git/S-T-E-V-E-git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby"/>
 </a>
-<a href="https://github.com/S-T-E-V-E-git/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-T-E-V-E-git&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-T-E-V-E-git&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 
 
