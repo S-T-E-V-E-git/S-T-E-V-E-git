@@ -7,13 +7,6 @@
 
 - ⚡ Fun fact : **I can play guitar :3**
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby"/>
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-T-E-V-E-git&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats"/>
-</a>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-T-E-V-E-git&show_icons=true&theme=great-gatsby)   
 
