@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact : **I can play guitar :3**
 
-<a href="https://github.com/S-T-E-V-E-git/github-readme-stats">
+<a href="https://github.com/S-T-E-V-E-git/S-T-E-V-E-git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-T-E-V-E-git&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/S-T-E-V-E-git/convoychat">
