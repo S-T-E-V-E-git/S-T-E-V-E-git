@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thant Hein Thwin ,aka Steve</h1>
-- 🌱 I’m currently learning **Docker, CCNA**
+- 🌱 I’m currently learning ** MERN Stack Web Developement **
 
 - 📫 How to reach me : **thantheinthwin.dev@gmail.com**
 
