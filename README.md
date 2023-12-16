@@ -7,6 +7,11 @@
 
 - ⚡ Fun fact : **I can play guitar :3**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thantheinthwin&show_icons=true&locale=en&layout=compact" alt="thantheinthwin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thantheinthwin&show_icons=true&locale=en" alt="thantheinthwin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thantheinthwin&" alt="thantheinthwin" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thantheinthwin&show_icons=true&theme=great-gatsby)   
 
