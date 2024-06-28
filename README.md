@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thant Hein Thwin ,aka Steve</h1>
-- 🌱 I’m currently learning ** MERN Stack Web Developement **
+- 🌱 An awesome mid level full stack software engineer **
 
 - 📫 How to reach me : **thantheinthwin.dev@gmail.com**
 
-- 📄 Know about my experiences : Full Stack Developer (wannabe :3)
+- 📄 Know about my experiences : GOAT B)
 
 - ⚡ Fun fact : **I can play guitar :3**
 
