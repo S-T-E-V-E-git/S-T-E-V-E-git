@@ -3,7 +3,7 @@
 
 - 📫 How to reach me : **thantheinthwin.dev@gmail.com**
 
-- 📄 Know about my experiences : GOAT B)
+- 📄 Know about my experiences : A seasoned software engineer with over 3 years of work experience.
 
 - ⚡ Fun fact : **I can play guitar :3**
 
